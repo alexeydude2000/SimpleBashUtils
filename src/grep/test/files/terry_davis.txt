@@ -1,0 +1,12 @@
+Terry Davis (1969-2018) - American programmer, creator of TempleOS.
+
+Main achievements:
+
+	Created his own operating system from scratch
+	Wrote over 100,000 lines of code
+	Developed his own programming language HolyC
+	Created an original graphics subsystem
+	Implemented a built-in compiler
+
+"I built a temple for God"
+	- Terry Davis.

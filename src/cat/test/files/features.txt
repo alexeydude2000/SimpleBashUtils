@@ -1,0 +1,7 @@
+TempleOS features:
+
+	640x480 screen resolution
+	16-color graphics
+	Built-in HolyC compiler
+	Unique file system
+	Multitasking support
